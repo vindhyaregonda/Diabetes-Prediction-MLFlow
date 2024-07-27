@@ -1,0 +1,13 @@
+# Install the dependencies
+!pip install sweetviz
+!pip install autoviz
+!pip install optuna
+!pip install h2o
+!pip install colorama
+
+# For MLFLOW
+!pip install mlflow --quiet
+!pip install pyngrok --quiet
+
+# Check if mlflow is installed
+!mlflow
