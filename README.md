@@ -2,7 +2,7 @@
 This Jupyter Notebook provides a comprehensive analysis of a dataset involving health-related variables. 
 
 # Data Source:
-The dataset was obtained from Kaggle. You can find the original dataset here.
+The dataset was obtained from Kaggle. You can find the original dataset [here](https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset).
 
 # How to Use This Notebook-
 Set Up: 
