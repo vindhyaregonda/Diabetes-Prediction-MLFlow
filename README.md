@@ -11,4 +11,4 @@ Ensure you have the required libraries installed: pandas, seaborn, matplotlib, s
 # Load the Dataset:
 Replace the placeholder data loading code with the actual path to your dataset.
 
-# PErform the Analysis.
+# Perform the Analysis.
